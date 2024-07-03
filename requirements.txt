@@ -1,6 +1,6 @@
 streamlit
 langchain-huggingface==0.1.9
-huggingface-hub==<version>
+huggingface-hub
 langchain_core
 python-dotenv
 langchain_community
